@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Taschenrechner1\Taschenrechner1\bin\Debug\Taschenrechner1.exe.config
+C:\Users\admin\source\repos\Taschenrechner1\Taschenrechner1\bin\Debug\Taschenrechner1.exe
+C:\Users\admin\source\repos\Taschenrechner1\Taschenrechner1\bin\Debug\Taschenrechner1.pdb
+C:\Users\admin\source\repos\Taschenrechner1\Taschenrechner1\obj\Debug\Taschenrechner1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Taschenrechner1\Taschenrechner1\obj\Debug\Taschenrechner1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Taschenrechner1\Taschenrechner1\obj\Debug\Taschenrechner1.exe
+C:\Users\admin\source\repos\Taschenrechner1\Taschenrechner1\obj\Debug\Taschenrechner1.pdb
